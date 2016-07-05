@@ -2,4 +2,4 @@
 
 A super-simple `<hello-world>` custom element implemented using an Angular 2 component.
 
-Used by the tutorials and examples at [lishman.io](http://lishman.io)
+Used by tutorials and examples at [lishman.io](http://lishman.io)
